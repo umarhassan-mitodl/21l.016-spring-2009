@@ -1,0 +1,70 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "History",
+      "History of Science and Technology"
+    ],
+    [
+      "Humanities",
+      "History",
+      "European History"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "International Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Comparative Literature"
+    ],
+    [
+      "Humanities",
+      "Literature",
+      "Drama"
+    ]
+  ],
+  "legacy_uid": "85f1576b-1048-13c7-227e-2a8fb7264d8b",
+  "instructors": {
+    "content": [
+      "4726f3b6-5bd5-5f81-098f-1766520978c4",
+      "5c890c9d-4ccb-c176-570d-921bde355cc7"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "717f8357-bed3-df44-96fb-7faf6b6d0784",
+    "website": "21l-016-learning-from-the-past-drama-science-performance-spring-2009"
+  },
+  "course_title": "Learning from the Past: Drama, Science, Performance",
+  "hide_download": true,
+  "course_description": "This class explores the creation (and creativity) of the modern scientific and cultural world through study of western Europe in the 17th century, the age of Descartes and Newton, Shakespeare, Milton and Ford. It compares period thinking to present-day debates about the scientific method, art, religion, and society. This team-taught, interdisciplinary subject draws on a wide range of literary, dramatic, historical, and scientific texts and images, and involves theatrical experimentation as well as reading, writing, researching and conversing.\n\nThe primary theme of the class is to explore how England in the mid-seventeenth century became \"a world turned upside down\" by the new ideas and upheavals in religion, politics, and philosophy, ideas that would shape our modern world. Paying special attention to the \"theatricality\" of the new models and perspectives afforded by scientific experimentation, the class will read plays by Shakespeare, Tate, Brecht, Ford, Churchill, and Kushner, as well as primary and secondary texts from a wide range of disciplines. Students will also compose and perform in scenes based on that material.\n",
+  "department_numbers": [
+    "21L",
+    "21M"
+  ],
+  "extra_course_numbers": "21M.616",
+  "primary_course_number": "21L.016",
+  "course_image_thumbnail": {
+    "content": "611996b8-6e61-32c8-8e61-98949ac83b2a",
+    "website": "21l-016-learning-from-the-past-drama-science-performance-spring-2009"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Image Gallery",
+    "Projects with Examples",
+    "Written Assignments",
+    "Presentation Assignments"
+  ],
+  "site_uid": "8c50fd92-dbc6-475b-aad1-46e4a1745f36",
+  "site_short_id": "21l.016-spring-2009",
+  "site_url_path": "courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009",
+  "title": "Course Metadata"
+}
