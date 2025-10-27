@@ -2,8 +2,6 @@
 content_type: page
 description: This section provides information on the course assignments, research
   resources, assignment guidelines, and an example of student work.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -28,9 +26,9 @@ Research Resources
 
 Through the MIT Libraries' research databases, enrolled students can find several useful tools to help with research. Among them:
 
-*   the [OED (Oxford English Dictionary)](http://www.oed.com/), the standard for historical study of words;
-*   the [MLA (Modern Language Association) bibliography](http://www.mla.org/bibliography), with links to scholarly articles and books owned by MIT as well as many more available through Interlibrary Loan;
-*   [EEBO (Early English Books Online)](http://eebo.chadwyck.com/home), a remarkable resource claiming to include scanned copies of all books printed in England before the Restoration.
+*   the {{% resource_link "d5d289d3-43d4-443a-8451-d0e34716ed25" "OED (Oxford English Dictionary)" %}}, the standard for historical study of words;
+*   the {{% resource_link "a32261a9-3d09-4009-aec6-37349a223812" "MLA (Modern Language Association) bibliography" %}}, with links to scholarly articles and books owned by MIT as well as many more available through Interlibrary Loan;
+*   {{% resource_link "049c4891-41f9-4467-9833-ce22d6902bdf" "EEBO (Early English Books Online)" %}}, a remarkable resource claiming to include scanned copies of all books printed in England before the Restoration.
 
 Assignment Guidelines
 ---------------------

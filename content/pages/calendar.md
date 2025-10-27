@@ -2,8 +2,6 @@
 content_type: page
 description: This calendar section provides the schedule of lecture topics, screenings,
   objectives, and coursework.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -128,7 +126,7 @@ Rehearse reading scenes from the two _Lears_.
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Special event: evening film screening of [_Stage Beauty_](http://www.imdb.com/title/tt0368658/) (Dir. Richard Eyre, 2004)
+Special event: evening film screening of {{% resource_link "746d9c7e-c787-4eaa-a2d2-b9dc3e073b97" "_Stage Beauty_" %}} (Dir. Richard Eyre, 2004)
 {{< tdclose >}}
 {{< tdopen >}}
  

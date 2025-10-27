@@ -3,8 +3,6 @@ content_type: page
 description: This section provides an introduction to the course and information on
   meeting times, theme, class requirements, grading, learning objectives, required
   books, and plagiarism policy.
-hide_download: true
-hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -143,19 +141,19 @@ Required Books
 
 Brecht, Bertolt. _The Life of Galileo_. Translated by R. Manheim and J. Willett. New York, NY: Arcade Publishing, 1994. ISBN: 9781559702546.
 
-Churchill, Caryl. "Light Shining in Buckinghamshire." In _Plays: One_. London, UK: Methuen, 1985. ISBN: 9780413566706. \[[Preview](http://books.google.com/books?id=uaHGNeyeTwQC&pg=PA186=onepage) in Google Books\]
+Churchill, Caryl. "Light Shining in Buckinghamshire." In _Plays: One_. London, UK: Methuen, 1985. ISBN: 9780413566706. \[{{% resource_link "9a5657b8-845c-4ac9-bd3b-262671b7532e" "Preview" %}} in Google Books\]
 
-Ford, John. _'Tis Pity She's a Whore and Other Plays_. Edited by Marion Lomax. New York, NY: Oxford University Press, 1999. ISBN: 9780192834492. \[[Preview](http://books.google.com/books?id=DqbX7iwEa5EC&lpg=PA1&pg=PP1#v=onepage&q=&f=false) in Google Books\]
+Ford, John. _'Tis Pity She's a Whore and Other Plays_. Edited by Marion Lomax. New York, NY: Oxford University Press, 1999. ISBN: 9780192834492. \[{{% resource_link "7f168c11-172d-4dba-8cea-9850863e871e" "Preview" %}} in Google Books\]
 
-Kushner, Tony. _Death and Taxes: Hydriotaphia and Other Plays_. New York, NY: Theatre Communications Group, 1998. ISBN: 9781559361569. \[[Preview](http://books.google.com/books?id=k_HoCAAAQBAJ&pg=PAfrontcover) in Google Books\]
+Kushner, Tony. _Death and Taxes: Hydriotaphia and Other Plays_. New York, NY: Theatre Communications Group, 1998. ISBN: 9781559361569. \[{{% resource_link "fe0fd290-4b7e-44a4-bbff-b110bccd777f" "Preview" %}} in Google Books\]
 
 Massinger, Philip. _The Roman Actor_. Royal Shakespeare Company Classics Series. London, UK: Nick Hern Books, 2003. ISBN: 9781854596970.
 
 McMillin, Scott, ed. _Restoration and Eighteenth-Century Comedy_. 2nd ed. New York, NY: Norton Critical Editions, 1997. ISBN: 9780393963342.
 
-Shakespeare, William. _King Lear_. Edited by R. A. Foakes. London, UK: Arden Shakespeare, 1997. ISBN: 9780174434603. \[[Preview](http://books.google.com/books?id=LPY9sswP-toC&pg=PAfrontcover) in Google Books\]
+Shakespeare, William. _King Lear_. Edited by R. A. Foakes. London, UK: Arden Shakespeare, 1997. ISBN: 9780174434603. \[{{% resource_link "39a4d3d5-13ef-4dc0-bfba-c4a7ff065be8" "Preview" %}} in Google Books\]
 
-Tate, Nahum. [_The History of King Lear_](https://archive.org/details/historyofkinglear_1208_librivox).
+Tate, Nahum. {{% resource_link "6d145e8d-d947-45c3-af25-3be75cb4a821" "_The History of King Lear_" %}}.
 
 Additional required selections, plus supplemental and individually assigned readings, will be provided as the semester progresses.
 
@@ -164,4 +162,4 @@ Plagiarism Policy
 
 The Literature Section has formulated this statement and policy for all plagiarism cases:
 
-Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in [Writing and Communication Center](http://web.mit.edu/writing/) and the [MIT Web site on Plagiarism](http://web.mit.edu/writing/Special/plagiarism.html).
+Plagiarism—use of another's intellectual work without acknowledgement—is a serious offense. It is the policy of the Literature Faculty that students who plagiarize will receive an F in the subject, and that the instructor will forward the case to the Committee on Discipline. Full acknowledgement for all information obtained from sources outside the classroom must be clearly stated in all written work submitted. All ideas, arguments, and direct phrasings taken from someone else's work must be identified and properly footnoted. Quotations from other sources must be clearly marked as distinct from the student's own work. For further guidance on the proper forms of attribution, consult the style guides available in {{% resource_link "382d1c68-03e8-4bea-b521-201c9b075e08" "Writing and Communication Center" %}} and the {{% resource_link "3c3c4c93-7c4f-4ff0-a84e-efc9a28d17b9" "MIT Web site on Plagiarism" %}}.

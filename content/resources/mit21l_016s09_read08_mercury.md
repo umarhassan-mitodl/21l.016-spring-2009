@@ -5,8 +5,6 @@ description: 'This is a masque by the playwright Ben Jonson entitled Mercury Vin
 file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/8bc3c058c0649028002fe41661bbbaa4_MIT21L_016s09_read08_mercury.pdf
 file_size: 114442
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Readings
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

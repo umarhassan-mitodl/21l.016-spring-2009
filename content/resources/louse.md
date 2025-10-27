@@ -5,8 +5,6 @@ description: Drawing of a louse, underside, shown grasping a hair, from Robert H
 file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/b48979e5f03e7aee854c8d889d4e949e_louse.jpg
 file_size: 11147
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''

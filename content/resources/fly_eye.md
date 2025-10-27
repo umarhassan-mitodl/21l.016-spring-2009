@@ -5,8 +5,6 @@ description: Drawing of the head of a housefly, highlighting the eye's compound 
 file: /courses/21l-016-learning-from-the-past-drama-science-performance-spring-2009/c557d706a93161606633117f768fd35e_fly_eye.jpg
 file_size: 10136
 file_type: image/jpeg
-hide_download: true
-hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
